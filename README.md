@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech Student | Aspiring Full-Stack Web Developer from India 🇮🇳</h3>
 
 <p align="center">
-  Passionate about Web Development, Java, DSA and building real-world projects.
+  Passionate about Web Development, DSA and building real-world projects.
 </p>
 
 ---
@@ -47,7 +47,6 @@ Collection of Java programs for beginners and DSA practice.
 
 ## 🎯 2026 Goals
 
-- ✅ Master Java
 - ✅ Learn DSA
 - ✅ Become a Full-Stack Developer
 - ✅ Contribute to Open Source
@@ -58,7 +57,7 @@ Collection of Java programs for beginners and DSA practice.
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/vikashdas4550-a11y
-- LinkedIn: Add Your LinkedIn Link
+- LinkedIn: www.linkedin.com/in/vikash-kumar-b980bb37a
 
 ---
 
