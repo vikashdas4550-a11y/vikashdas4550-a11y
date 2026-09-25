@@ -24,9 +24,11 @@
 - CSS3
 - JavaScript
 - Java
+- Python
 - Git
 - GitHub
 - Firebase
+- DSA (Learning)
 - React (Learning)
 - Node.js (Learning)
 
@@ -35,10 +37,45 @@
 ## 📂 Featured Projects
 
 ### 🍔 Food Nagri
-A modern food ordering website built using HTML, CSS, JavaScript and Firebase.
 
+A modern and responsive food ordering website that allows users to explore food items, select their location, and place orders online.
+
+**Technologies:** HTML, CSS, JavaScript, Firebase
+
+**Key Features:**
+- 🍕 Food & Restaurant Browsing
+- 📍 Location/City Selection
+- 🛒 Online Food Ordering
+- 🔐 User Login & Signup
+- 🔥 Firebase Integration
+- 📱 Responsive Design
 ### 🌐 Portfolio Website
-A responsive personal portfolio showcasing my skills and projects.
+
+A responsive personal portfolio website showcasing my skills, projects, achievements, and learning journey in web development.
+
+**Technologies:** HTML, CSS, JavaScript
+
+**Key Features:**
+- 👨‍💻 About Me
+- 🛠️ Skills & Technologies
+- 📂 Featured Projects
+- 📞 Contact Section
+- 📱 Responsive Design
+
+### 📚 EduTrack360
+
+A Python-based student management and study performance tracking system that helps students manage their academic data, track study habits, analyze performance, and generate useful reports.
+
+**Technologies:** Python, NumPy, Pandas, Matplotlib, File Handling
+
+**Key Features:**
+- 👨‍🎓 Student Management
+- 📖 Study Data Tracking
+- 📊 Performance Analysis
+- 🔍 Student Search
+- 📈 Data Visualization
+- 📄 Report Generation
+
 
 ### ☕ Java Programs
 Collection of Java programs for beginners and DSA practice.
