@@ -49,6 +49,7 @@ A modern and responsive food ordering website that allows users to explore food 
 - 🔐 User Login & Signup
 - 🔥 Firebase Integration
 - 📱 Responsive Design
+
 🔗 **GitHub Repository:**
 👉 https://github.com/vikashdas4550-a11y/Food-Nagri
 
@@ -81,7 +82,9 @@ A Python-based student management and study performance tracking system that hel
 - 🔍 Student Search
 - 📈 Data Visualization
 - 📄 Report Generation
-- 🔗 **GitHub Repository:**
+
+ 
+🔗 **GitHub Repository:**
 👉 https://github.com/vikashdas4550-a11y/Edutrack360
 
 
