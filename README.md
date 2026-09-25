@@ -49,6 +49,9 @@ A modern and responsive food ordering website that allows users to explore food 
 - 🔐 User Login & Signup
 - 🔥 Firebase Integration
 - 📱 Responsive Design
+🔗 **GitHub Repository:**
+👉 https://github.com/vikashdas4550-a11y/Food-Nagri
+
 ### 🌐 Portfolio Website
 
 A responsive personal portfolio website showcasing my skills, projects, achievements, and learning journey in web development.
@@ -61,6 +64,9 @@ A responsive personal portfolio website showcasing my skills, projects, achievem
 - 📂 Featured Projects
 - 📞 Contact Section
 - 📱 Responsive Design
+
+ 🔗 **GitHub Repository:**
+👉 https://github.com/vikashdas4550-a11y/vikash-portfolio
 
 ### 📚 EduTrack360
 
@@ -75,6 +81,8 @@ A Python-based student management and study performance tracking system that hel
 - 🔍 Student Search
 - 📈 Data Visualization
 - 📄 Report Generation
+- 🔗 **GitHub Repository:**
+👉 https://github.com/vikashdas4550-a11y/Edutrack360
 
 
 ### ☕ Java Programs
